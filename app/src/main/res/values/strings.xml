@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AVBooks</string>
+    <string name="settings">Settings</string>
+    <string name="tv_prefix_text1">Search in author:</string>
+    <string name="tv_prefix_text2">Search in title:</string>
+    <string name="tv_prefix_text3">Search in publisher:</string>
+    <string name="search_request_alert">Enter search request</string>
+    <string name="internet_alert">Check internet</string>
+    <string-array name="search_type">
+        <item>Author</item>
+        <item>Title</item>
+        <item>Publisher</item>
+    </string-array>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="detail_no_title">No title</string>
+    <string name="detail_no_description">No description</string>
+    <string name="preview_link_alert">No preview link</string>
+    <string name="no_found_alert">No matches found.</string>
+    <string name="select_search_type">Select a search type:</string>
+
+
+</resources>
